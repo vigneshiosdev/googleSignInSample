@@ -59,23 +59,11 @@
                                             <constraint firstItem="fff-Rd-mT2" firstAttribute="leading" secondItem="Zs4-IM-GOU" secondAttribute="leading" constant="16" id="rsW-K2-DTM"/>
                                         </constraints>
                                     </view>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="z5z-sH-Jnf">
-                                        <rect key="frame" x="0.0" y="0.0" width="375" height="50"/>
-                                        <constraints>
-                                            <constraint firstAttribute="height" constant="50" id="ZlR-nm-Zc4"/>
-                                        </constraints>
-                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                        <nil key="textColor"/>
-                                        <nil key="highlightedColor"/>
-                                    </label>
                                 </subviews>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <constraints>
-                                    <constraint firstItem="z5z-sH-Jnf" firstAttribute="top" secondItem="YXS-ll-X1Z" secondAttribute="top" id="3kr-G7-NHe"/>
                                     <constraint firstItem="Zs4-IM-GOU" firstAttribute="centerY" secondItem="YXS-ll-X1Z" secondAttribute="centerY" id="FCz-1I-tiJ"/>
                                     <constraint firstItem="Zs4-IM-GOU" firstAttribute="leading" secondItem="YXS-ll-X1Z" secondAttribute="leading" constant="16" id="HUy-eY-zsz"/>
-                                    <constraint firstItem="z5z-sH-Jnf" firstAttribute="leading" secondItem="YXS-ll-X1Z" secondAttribute="leading" id="IDq-Mc-DJR"/>
-                                    <constraint firstAttribute="trailing" secondItem="z5z-sH-Jnf" secondAttribute="trailing" id="ZxM-G4-OaQ"/>
                                     <constraint firstAttribute="trailing" secondItem="Zs4-IM-GOU" secondAttribute="trailing" constant="16" id="alI-Zc-FiC"/>
                                 </constraints>
                             </view>
